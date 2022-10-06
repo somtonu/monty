@@ -1,1 +1,1 @@
-An absent readme might have been the source for error
+this is a collaborative effort between Somto and Chino.
